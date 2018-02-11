@@ -1,5 +1,6 @@
 # NTU git training course github flow exercise
 my name is aawula
+My name is Alex.
 ### Instructor:
 
 **Eugene Chang** 
